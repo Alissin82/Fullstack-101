@@ -5,6 +5,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        iransans: ['IranSansWeb', 'sans-serif']
+      }
     },
   },
   plugins: [],
