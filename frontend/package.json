@@ -10,14 +10,17 @@
   },
   "dependencies": {
     "-": "^0.0.1",
+    "@hookform/resolvers": "^3.9.1",
     "@types/react": "^19.0.2",
     "autoprefixer": "^10.4.20",
+    "formik": "^2.4.6",
     "lit": "^3.2.1",
     "postcss": "^8.4.49",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.1",
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^3.4.17",
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "typescript": "~5.6.2",
